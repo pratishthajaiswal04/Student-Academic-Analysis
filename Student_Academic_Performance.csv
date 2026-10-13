@@ -1,0 +1,51 @@
+Student_ID,Department,Semester,Subject,Attendance_Percent,Assignment_Marks,Exam_Marks,Overall_Score,Result
+STU001,BBA,4,Marketing,95,47,38,40.7,Pass
+STU002,BCA,2,Accounting,72,55,63,60.6,Pass
+STU003,B.Com,4,Economics,61,83,46,57.1,Pass
+STU004,BBA,2,Business Analytics,82,42,38,39.2,Fail
+STU005,BCA,4,Management,68,54,99,85.5,Pass
+STU006,B.Com,4,Marketing,56,75,60,64.5,Pass
+STU007,BBA,2,Accounting,96,84,88,86.8,Pass
+STU008,BCA,2,Economics,83,77,70,72.1,Pass
+STU009,B.Com,3,Business Analytics,65,84,89,87.5,Pass
+STU010,BBA,3,Management,72,49,62,58.1,Pass
+STU011,BCA,2,Marketing,61,45,83,71.6,Pass
+STU012,B.Com,4,Accounting,77,94,79,83.5,Pass
+STU013,BBA,4,Economics,71,91,40,55.3,Pass
+STU014,BCA,3,Business Analytics,84,74,50,57.2,Pass
+STU015,B.Com,4,Management,60,75,72,72.9,Pass
+STU016,BBA,4,Marketing,94,96,81,85.5,Pass
+STU017,BCA,2,Accounting,67,85,43,55.6,Pass
+STU018,B.Com,2,Economics,97,54,72,66.6,Pass
+STU019,BBA,3,Business Analytics,69,95,47,61.4,Pass
+STU020,BCA,2,Management,72,69,81,77.4,Pass
+STU021,B.Com,4,Marketing,78,62,61,61.3,Pass
+STU022,BBA,4,Accounting,72,84,44,56.0,Pass
+STU023,BCA,2,Economics,95,50,66,61.2,Pass
+STU024,B.Com,4,Business Analytics,84,64,69,67.5,Pass
+STU025,BBA,4,Management,99,75,63,66.6,Pass
+STU026,BCA,2,Marketing,75,93,42,57.3,Pass
+STU027,B.Com,3,Accounting,57,91,75,79.8,Pass
+STU028,BBA,4,Economics,72,44,62,56.6,Pass
+STU029,BCA,4,Business Analytics,100,60,62,61.4,Pass
+STU030,B.Com,2,Management,86,65,93,84.6,Pass
+STU031,BBA,4,Marketing,71,48,66,60.6,Pass
+STU032,BCA,4,Accounting,90,74,68,69.8,Pass
+STU033,B.Com,3,Economics,92,67,86,80.3,Pass
+STU034,BBA,3,Business Analytics,69,48,100,84.4,Pass
+STU035,BCA,2,Management,60,88,41,55.1,Pass
+STU036,B.Com,4,Marketing,64,80,55,62.5,Pass
+STU037,BBA,3,Accounting,82,78,43,53.5,Pass
+STU038,BCA,4,Economics,79,78,94,89.2,Pass
+STU039,B.Com,4,Business Analytics,71,75,36,47.7,Pass
+STU040,BBA,4,Management,62,83,69,73.2,Pass
+STU041,BCA,3,Marketing,76,47,72,64.5,Pass
+STU042,B.Com,4,Accounting,65,69,35,45.2,Pass
+STU043,BBA,4,Economics,71,72,57,61.5,Pass
+STU044,BCA,4,Business Analytics,61,95,73,79.6,Pass
+STU045,B.Com,2,Management,87,78,60,65.4,Pass
+STU046,BBA,4,Marketing,78,88,55,64.9,Pass
+STU047,BCA,4,Accounting,88,98,35,53.9,Pass
+STU048,B.Com,2,Economics,75,71,37,47.2,Pass
+STU049,BBA,2,Business Analytics,78,96,74,80.6,Pass
+STU050,BCA,2,Management,58,55,45,48.0,Pass
